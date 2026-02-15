@@ -1,0 +1,7 @@
+node_modules
+.env
+data
+.claude
+spotify-mcp-server
+*.md
+!README.md

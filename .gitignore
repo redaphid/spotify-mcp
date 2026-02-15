@@ -1,0 +1,16 @@
+# Secrets
+.env
+.mcp.json
+.mcp.json.bak
+
+# Upstream MCP server (cloned at build time)
+spotify-mcp-server/
+
+# Data files
+data/
+
+# Node
+node_modules/
+
+# Claude
+.claude/
